@@ -1,4 +1,4 @@
-package aula_1_random;
+package Random;
 import java.util.Random;
 public class Sorteio {
 
