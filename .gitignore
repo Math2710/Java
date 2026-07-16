@@ -1,0 +1,21 @@
+# Arquivos compilados
+*.class
+bin/
+out/
+build/
+
+# Empacotamento
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema
+.DS_Store
+Thumbs.db
